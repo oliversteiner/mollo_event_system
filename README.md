@@ -4,6 +4,8 @@
 Basend on Drupal 8 / 9
 install via Composer
 
+- Design Templates for Sketch
+
 
 ## Includes
 ### Events
@@ -13,8 +15,8 @@ install via Composer
 ### Articles
 - News, Press, Media
 
-### 
-- Reservations, Donations, Simple Ticket System
+### Tickets
+- Coupons, Donations, Simple Ticket System
 
 ### Management
 - Artists (Solist, Choir, Statists, Orchestra)
@@ -34,19 +36,32 @@ install via Composer
 - Mollo Member  
 - Mollo Donation
 - Mollo Newsletter
-- Mollo Reservation
+- Mollo Coupon
 - Mollo Ticket
 
 ### Standalone Modules with high integrations
 - UniG (Universal Image Gallery)
 - Mollo Utils (UniversalHelper Classes)
 - Mollo Newsletter
+- Views Admin Tools
+- Taxons
+- 
 
 ### Required Third Party Modules
-
+ - FontAwesome
+ - Dragabble Views
+ - Twig Field Value
+ - Twig Tweak
 
 ### Optional Third Party Modules
+ - 
+
+### Required JS Libraries
+ - Lightgallery
+ - fontawesome-iconpicker
 
 
 
 ## Roadmap
+- Administration Gui in Vue.js
+- 
